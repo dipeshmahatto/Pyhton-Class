@@ -21,9 +21,8 @@ print(num_1)
 2) float 
 3) String
 4) List---> l = [45,75,84,"Dipesh"] -----------> can be editable
-5) Tuple --> t= (10,20,"Mahato)---->can not  be editable
+5) Tuple --> t= (10,20,"Mahato")---->can not  be editable
 6) Dictionary ---> d= {"name":"ABC","email":"abc@gmail.com"}-----> key:value -----> can be editable
 7) Set-----> s = {10,20,54} -----------> can be editable
 8) Boolen --->ture or false
 9) Complex ---> c = 4+3j '''
-
