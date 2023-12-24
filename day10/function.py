@@ -16,6 +16,7 @@
 
 
 def person(name, age:int):
+    assert type(age)==int, "age must be interger"
     print("print name is ",name," and age  is ",age)
 
 person("dipesh",20)
