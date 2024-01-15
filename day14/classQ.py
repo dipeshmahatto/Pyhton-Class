@@ -29,3 +29,6 @@ D1 = Developer(name="Dipesh",address="Kathmandu",salary=50200,programmingL="Pyth
 D1.print_detail()
 De1 = Designer(name="surya",address="Kathmandu",salary=11000,tool="figma")
 De1.print_detail()
+
+
+#its good to know this
