@@ -3,7 +3,7 @@ class Employee:
         self.name=name
         self.address=address
         self.salary=salary
-
+        
     def print_detail(self):
         print(f"Name : {self.name}")
         print(f"ADDRESS : {self.address}")
