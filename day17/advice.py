@@ -1,4 +1,4 @@
-import requests
+import requests;
 # api_url = "https://api.adviceslip.com/advice"
 # response=requests.get(api_url)
 # if (response.status_code==200):
